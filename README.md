@@ -40,16 +40,23 @@ This dashboard helps hospitals and clinics:
 
 ---
 
-## 📸 Dashboard Preview
 
-<p align = "center">
-<img src = "https://github.com/user-attachments/assets/3ba1fca2-8120-4206-9a2f-e5a2c5567a38" alt="View" width = "600"/>
+
+<h3 align="center">📊 Dashboard Previews</h3>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/dhhairya5/Care_Navigator/main/images/Summary.jpeg" width="700"/><br/>
+  <em>Overall Hospital Summary – Waitlist comparison, patient flow by type, and time-based trends</em>
 </p>
-<p align = "center">
-<img src = "https://github.com/user-attachments/assets/da76f2da-2578-42d9-8814-782eb40299c1" alt="View" width = "600"/>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/dhhairya5/Care_Navigator/main/images/Detail%20View.jpeg" width="700"/><br/>
+  <em>Detailed Patient Summary – Cardiology department with age and time-band filters applied</em>
 </p>
-<p align = "center">
-<img src = "https://github.com/user-attachments/assets/36166d7f-a2d6-4bf2-8311-4b1f0953b0ff" alt="View" width = "600"/>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/dhhairya5/Care_Navigator/main/images/Detailed%20View.jpeg" width="700"/><br/>
+  <em>Interactive Filters for Inpatient Cases in Cardiology – demographic-wise view</em>
 </p>
 
 ## 📸 Summary
