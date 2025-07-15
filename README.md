@@ -42,7 +42,9 @@ This dashboard helps hospitals and clinics:
 
 ## 📸 Dashboard Preview
 
-![View](https://github.com/user-attachments/assets/3ba1fca2-8120-4206-9a2f-e5a2c5567a38)
+<p alighn = "center">
+<img src = "https://github.com/user-attachments/assets/3ba1fca2-8120-4206-9a2f-e5a2c5567a38" alt="View" width = "600"/>
+</p>
 ![Detailed View](https://github.com/user-attachments/assets/da76f2da-2578-42d9-8814-782eb40299c1)
 ![Detail View](https://github.com/user-attachments/assets/36166d7f-a2d6-4bf2-8311-4b1f0953b0ff)
 
