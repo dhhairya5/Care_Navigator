@@ -40,30 +40,31 @@ This dashboard helps hospitals and clinics:
 
 ---
 
-
-
 <h3 align="center">📊 Dashboard Previews</h3>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/dhhairya5/Care_Navigator/main/images/Summary.jpeg" width="700"/><br/>
+  <img src="(https://github.com/user-attachments/assets/578314fc-0e1e-4119-86aa-b078eed1171a" width="700"/><br/>
   <em>Overall Hospital Summary – Waitlist comparison, patient flow by type, and time-based trends</em>
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/dhhairya5/Care_Navigator/main/images/Detail%20View.jpeg" width="700"/><br/>
+  <img src="https://github.com/user-attachments/assets/5138d39a-e55d-476c-8c79-a57ff9ac4731" width="700"/><br/>
   <em>Detailed Patient Summary – Cardiology department with age and time-band filters applied</em>
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/dhhairya5/Care_Navigator/main/images/Detailed%20View.jpeg" width="700"/><br/>
-  <em>Interactive Filters for Inpatient Cases in Cardiology – demographic-wise view</em>
+  <img src="https://github.com/user-attachments/assets/ee83c5da-ebe3-4c69-b2c6-de63ab7949f5" width="700"/><br/>
+  <em>Orthopaedics Department View – case type & age distribution with total metrics</em>
 </p>
 
 ## 📸 Summary
 
-<p align = "center">
-<img src = "https://github.com/user-attachments/assets/37f4b382-6d72-4196-9aa0-189face23f0e" alt="View" width = "600"/>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/d48d51af-a732-4864-871b-8c03929a6f58" width="700"/><br/>
+  <em>Interactive Filters for Inpatient Cases in Cardiology – demographic-wise view</em>
 </p>
+
 
 ---
 
